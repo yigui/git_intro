@@ -1,0 +1,8 @@
+# ignore the data folder
+data/
+
+# ignore pdf files
+*.pdf
+
+# igmore random csv files
+*.csv
